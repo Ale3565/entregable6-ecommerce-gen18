@@ -26,7 +26,6 @@ const Footer = () => {
                             <div className="success-message w-form-done" tabIndex="-1" role="region" aria-label="Footer Subscribe success">
    
                             </div>
-                            
                         </div>
                     </div>
                 </div>
