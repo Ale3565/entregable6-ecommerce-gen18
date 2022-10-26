@@ -6,7 +6,7 @@ import phone from "../assets/phone-icon.svg"
 import shopf from "../assets/shop-f.png"
 
 const Footer = () => {
-    
+
     return (
         <footer className="footer-wrapper">
             <div className="container-default w-container">
@@ -24,7 +24,7 @@ const Footer = () => {
                            <div class="w-layout-grid grid-subscribe-form-button-left"><input type="email" class="input input-subscribe-footer w-input" maxlength="256" name="Email-2" data-name="Email 2" placeholder="Enter your email address" id="Email-2" required="" /><input type="submit" value="Subscribe" data-wait="Please wait..." id="w-node-_016325b5-6fb2-c0fa-e951-650ad0b159c0-d0b159b0" class="btn-primary white w-button" /></div>
                         </form>
                             <div className="success-message w-form-done" tabIndex="-1" role="region" aria-label="Footer Subscribe success">
-                                
+   
                             </div>
                             
                         </div>
